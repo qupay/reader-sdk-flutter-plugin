@@ -59,6 +59,7 @@ about: I hit an error when I tried to use this plugin.
 <!--
   - platform: [e.g. iOS or Android]
   - OS and version: [e.g. iOS8.1]
+  - dev environment: [e.g. MacOS or Windows]
   - Reader SDK version: [e.g. 1.1.1]
 
   In addition: Run `flutter doctor -v` in your terminal and copy the results here.
