@@ -12,4 +12,4 @@ For example: I can no longer compile my project with this plugin after I migrate
 For example: Add AndroidX compatibility to this plugin. -->
 
 ### Additional context
-<!-- Add any other context or screenshots about the feature request here. -->
+<!-- Add any other context about the feature request here. -->

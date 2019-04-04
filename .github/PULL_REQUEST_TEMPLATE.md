@@ -2,6 +2,8 @@
 Thanks for submitting a pull request! We appreciate you spending the time to work on these changes. Please provide enough information so that others can review your pull request.
 
 We can only accept your change after you sign this Individual Contributor License Agreement (CLA) - https://spreadsheets.google.com/spreadsheet/viewform?formkey=dDViT2xzUHAwRkI3X3k5Z0lQM091OGc6MQ&ndplr=1
+
+Learn more about the contributing rules from https://github.com/square/reader-sdk-flutter-plugin/blob/master/CONTRIBUTING.md
 -->
 
 ## Summary
